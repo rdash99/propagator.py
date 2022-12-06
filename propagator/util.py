@@ -1,4 +1,5 @@
-from collections import deque, Iterable
+from collections import deque
+from collections.abc import Iterable
 import greenlet
 
 

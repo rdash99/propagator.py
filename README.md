@@ -1,7 +1,13 @@
 propagator.py
 =============
 
-**propatagor.py** is a *propagator network* built with Python.
+## Fork Notes
+-Depends on greenlet (pip install greenlet)
+-Some depedances were broken in the original fork, updated import statements
+
+#Propagator.py
+
+**propagator.py** is a *propagator network* built with Python.
 
 It is based on (or, should I say, translated from) the [Art of the Propagator][art],
 a paper written by Alexey Radul and Gerald Sussman. There's a presentation

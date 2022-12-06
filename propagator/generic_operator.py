@@ -19,7 +19,8 @@ hello world
 12
 """
 
-from collections import deque, Iterable
+from collections import deque
+from collections.abc import Iterable
 from propagator.logging import debug
 
 generic_operators = {}
