@@ -1,9 +1,9 @@
+## Fork Notes
+- Depends on greenlet (pip install greenlet)
+- Some depedancies were broken in the original fork, updated import statements
+
 propagator.py
 =============
-
-## Fork Notes
--Depends on greenlet (pip install greenlet)
--Some depedances were broken in the original fork, updated import statements
 
 #Propagator.py
 
